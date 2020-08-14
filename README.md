@@ -1,2 +1,2 @@
-# Tarea3_BigData
+# TrabajoGraficos
 Desarrollo de la ultima tarea
